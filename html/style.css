@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    text-align: justify;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    margin: 1rem;
+    border-radius: 20px;
+}
+
+p, ul {
+    font-size: 1rem;
+    max-width: 500px;
+}

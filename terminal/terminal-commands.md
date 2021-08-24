@@ -30,3 +30,14 @@
 
 `rm` + filename
 *removes a file*
+
+`mv` + dirname or filename
+*move and/or rename*
+
+`rmdir` + dirname
+*remove a non-empty directory*
+
+`cp -r` + dirname
+*copy a directory and its contents*
+
+... some other things too, nothing very structured.
