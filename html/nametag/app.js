@@ -1,1 +1,2 @@
 bad.code
+"a string"
